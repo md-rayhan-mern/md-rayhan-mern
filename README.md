@@ -8,7 +8,7 @@ I am a passionate Full Stack Developer focused on turning complex ideas into ele
 ### 🛠 My Tech Stack
 # My Tech Stack
 
-![React](https://shields.io) ![NodeJS](https://shields.io) ![MongoDB](https://shields.io)
+![React](https://shields.io/React) ![NodeJS](https://shields.io/NodeJS) ![MongoDB](https://shields.io/MongoDB)
 
 
 ---
