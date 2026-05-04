@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Md. Rayhan 👋 
 
-<!--
-**md-rayhan-mern/md-rayhan-mern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Maestro
+I am a passionate Full Stack Developer focused on turning complex ideas into elegant, scalable, and efficient code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Rayhan's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Let's Connect:
+- 💼 LinkedIn: [://linkedin.com](https://://linkedin.com)
+- 📧 Email: rayhan.dev@gmail.com
