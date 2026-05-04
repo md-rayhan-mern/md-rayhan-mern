@@ -18,8 +18,11 @@ I am a passionate Full Stack Developer focused on turning complex ideas into ele
 ---
 
 ### 📊 GitHub Stats
-![Rayhan's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="left">
+<img src="https://vercel.app" alt="Rayhan's stats" />
+<br>
+<img src="https://vercel.app" alt="Top Langs" />
+</p>
 
 ---
 
