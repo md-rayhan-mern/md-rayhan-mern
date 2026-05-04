@@ -7,7 +7,7 @@ I am a passionate Full Stack Developer focused on turning complex ideas into ele
 
 ### 🛠 My Tech Stack
 <p align="left">
-  <img src="https://shields.io" />
+  ![React](https://shields.io)
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
